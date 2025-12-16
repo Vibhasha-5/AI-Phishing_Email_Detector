@@ -3,7 +3,10 @@
 This project uses Machine Learning to detect phishing emails based on their textual content.
 
 ## Dataset
-Courtesy - Phishing Email Dataset by Naser Abdullah Alam (Kaggle)
+Due to size and licensing constraints, the dataset is not included in the repository.
+It can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+
 
 ## Tech Stack
 - Python
