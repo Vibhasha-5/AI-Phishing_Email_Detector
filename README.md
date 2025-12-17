@@ -2,6 +2,8 @@
 
 This project uses Machine Learning to detect phishing emails based on their textual content.
 
+***Built By Vibhasha Nagvekar <2***
+
 ## Dataset
 Due to size and licensing constraints, the dataset is not included in the repository.
 It can be downloaded from Kaggle:
