@@ -36,3 +36,8 @@ python src/classify_email.py -t "Urgent! Verify your account now."
 
 ### 4. Run Web App
 streamlit run src/app_streamlit.py
+
+## Disclaimer 
+This project is created for educational purposes only. 
+**DO NOT USE IT FOR ANY OTHER MALICIOUS PURPOSES**
+**The author will not be responsible for any misuse.**
